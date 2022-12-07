@@ -59,14 +59,14 @@ int main()
     int* pInteger = nullptr;
     double r = 5, h;
     vector<int> array;
-    array.push_back(233);
-    array.push_back(23);
-    array.push_back(263);
-    array.push_back(1);
-    array.push_back(2533);
-    array.push_back(2983);
-    array.push_back(2563);
-    array.push_back(2023);
+    array.push_back(555);
+    array.push_back(555);
+    array.push_back(555);
+    array.push_back(555);
+    array.push_back(555);
+    array.push_back(555);
+    array.push_back(555);
+    array.push_back(555);
 
     double* pr = &r;
     *pr = 8;
